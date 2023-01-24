@@ -18,4 +18,4 @@ const isPalindrome = function (number) {
   return original === reversed; //return true if both strings are the same, i.e palendromic
 };
 
-console.log(isPalindrome(121));
+console.log(isPalindrome(121)); //TRUE

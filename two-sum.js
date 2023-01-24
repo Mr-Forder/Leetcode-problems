@@ -22,4 +22,4 @@ var twoSum = function (nums, target) {
   }
 };
 
-console.log(twoSum(nums, 17));
+console.log(twoSum(nums, 17)); //[0], [3]
